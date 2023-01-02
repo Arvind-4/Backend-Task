@@ -1,0 +1,1 @@
+pytest -vvv -s tests/
