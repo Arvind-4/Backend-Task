@@ -1,10 +1,10 @@
-# Fyle Backend Challenge
+# Backend Challenge
 
-## Who is this for?
+Who is this for?
 
 This challenge is meant for candidates who wish intern at Fyle and work with our engineering team. You should be able to commit to at least 3 months of dedicated time for internship.
 
-## Why work at Fyle?
+Why work at Fyle?
 
 Fyle is a fast-growing Expense Management SaaS product. We are ~40 strong engineering team at the moment. 
 
